@@ -38,3 +38,6 @@ src/types/      # Resume types
 
 ## Export Notes
 PDF/PNG export uses the hidden A4 preview node to preserve formatting. If export fails, ensure the preview has fully rendered before clicking export.
+
+## Website Demo
+(./assets/WebsiteDemo.png)
